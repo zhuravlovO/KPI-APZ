@@ -1,5 +1,7 @@
 package main
 
+// This is the main application file.
+
 import (
 	"encoding/json"
 	"log"

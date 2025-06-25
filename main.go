@@ -24,3 +24,5 @@ func main() {
 	http.HandleFunc("/time", timeHandler)
 	log.Fatal(http.ListenAndServe(":8795", nil))
 }
+
+// ... ще раз дякую
